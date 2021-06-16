@@ -1,4 +1,4 @@
-module github.com/miiu96/golangmodule_v0
+module github.com/miiu/golangmodule_v0
 
 go 1.15
 
