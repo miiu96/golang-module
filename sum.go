@@ -1,4 +1,4 @@
-package golang_module
+package golangmodule_v0
 
 import logger "github.com/ElrondNetwork/elrond-go-logger"
 
